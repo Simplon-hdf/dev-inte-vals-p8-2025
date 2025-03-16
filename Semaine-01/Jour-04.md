@@ -28,4 +28,4 @@
 - [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown)
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
